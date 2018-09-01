@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">retrofit_movies_post_app_udemy</string>
+    <string name="api_key">61116e50bb39fa8751e0856a9ce53d28</string>
+    <string name="title_activity_movie">MovieActivity</string>
+</resources>
